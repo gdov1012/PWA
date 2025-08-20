@@ -1,7 +1,32 @@
+*{
+    align-items: center;
+    justify-content: center;
+}
+
+
 .header{
     text-align: center;
     border: 4px solid #00008B;
-    height: 200px;
-    width: 900px;
-    
+  
+}
+
+.lista1{
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    border: 3px solid #0a0ad6; 
+}
+
+.lista2{
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    border: 3px solid #3d3dda; 
+}
+
+.lista3{
+    margin-top: 10px;
+    text-align: center;
+    justify-items: center;
+    border: 3px solid #3838a1; 
 }
